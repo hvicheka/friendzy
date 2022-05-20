@@ -19,10 +19,10 @@
             <NuxtLink to="/dashboard" class="hover:text-green-200">
               DASHBOARD
             </NuxtLink>
-            <NuxtLink to="#" class="hover:text-green-200">
+            <NuxtLink to="/auth/register" class="hover:text-green-200">
               REGISTER
             </NuxtLink>
-            <NuxtLink to="#" class="hover:text-green-200">
+            <NuxtLink to="/auth/login" class="hover:text-green-200">
               LOGIN
             </NuxtLink>
           </template>
